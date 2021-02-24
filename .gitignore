@@ -1,0 +1,16 @@
+# My configurations:
+
+# Model checkpoints:
+cp_dc_adv
+cp_dc_cifar100
+cp_dc_ft
+cp_dc_pt
+cp_dc_pt_old
+cp_mres18
+cp_res18
+cp_res18_ac
+cp_res34
+cp_wres50
+lab_anchor
+lab_dc
+data

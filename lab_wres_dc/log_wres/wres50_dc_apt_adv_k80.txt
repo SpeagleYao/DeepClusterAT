@@ -1,0 +1,9 @@
+Files already downloaded and verified
+Clustering epoch 1 cost time: 56.524109840393066 s
+Train Epoch: 1:	Loss: 3.927682488775619
+Train Epoch: 1:	Loss: 2.0588597275716873
+
+Test set: Average loss: 1.7035, Accuracy: 4052/10000 (40.52%)
+
+Clustering epoch 2 cost time: 71.08707666397095 s
+Train Epoch: 2:	Loss: 3.033386934748696
